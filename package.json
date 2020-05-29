@@ -1,0 +1,43 @@
+{
+  "name": "react-easy-paginate",
+  "version": "0.1.0",
+  "private": false,
+  "description": "A ReactJS component to render a pagination.",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "publish:npm": "rm -rf dist && mkdir dist &&  babel ./src/ -d dist --copy-files"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anasbousselham/reactpaginate.git"
+  },
+  "keywords": [
+    "npm",
+    "react",
+    "react-component",
+    "paginate",
+    "pagination",
+    "paginator"
+  ],
+  "author": "Anas Bousselham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anasbousselham/reactpaginate/issues"
+  },
+  "homepage": "https://github.com/anasbousselham/reactpaginate#readme",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "prop-types": "^15.7.2",
+    "react": "^16.4.0",
+    "react-dom": "^16.8.6",
+    "react-scripts": "3.0.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.10.1",
+    "@babel/preset-react": "^7.10.1"
+  }
+}
