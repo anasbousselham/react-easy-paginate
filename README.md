@@ -1,4 +1,4 @@
-[![NPM](https://nodei.co/npm/react-easy-paginate.png)](https://nodei.co/npm/react-easy-paginate/)
+[![NPM](https://nodei.co/npm/rc-easy-paginate.png)](https://nodei.co/npm/rc-easy-paginate/)
 
 # rc-easy-paginate
 
