@@ -36,4 +36,4 @@ how to make `react-easy-paginate` work with a list of objects.
 This project is licensed under the terms of the
 [MIT license](/LICENSE).
 
-[1]: https://github.com/anasbousselham/reactpaginate/blob/master/demo/demo.jsx
+[1]: https://github.com/anasbousselham/react-easy-paginate/blob/master/src/index.js
