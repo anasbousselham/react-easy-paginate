@@ -1,5 +1,5 @@
 {
-  "name": "react-easy-paginate",
+  "name": "rc-easy-paginate",
   "version": "0.1.0",
   "private": false,
   "description": "A ReactJS component to render a pagination.",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anasbousselham/reactpaginate.git"
+    "url": "git+https://github.com/anasbousselham/react-easy-paginate.git"
   },
   "keywords": [
     "npm",
@@ -26,9 +26,9 @@
   "author": "Anas Bousselham",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anasbousselham/reactpaginate/issues"
+    "url": "https://github.com/anasbousselham/react-easy-paginate/issues"
   },
-  "homepage": "https://github.com/anasbousselham/reactpaginate#readme",
+  "homepage": "https://github.com/anasbousselham/react-easy-paginate#readme",
   "dependencies": {
     "lodash": "^4.17.15",
     "prop-types": "^15.7.2",

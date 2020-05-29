@@ -1,15 +1,15 @@
 [![NPM](https://nodei.co/npm/react-easy-paginate.png)](https://nodei.co/npm/react-easy-paginate/)
 
-# react-easy-paginate
+# rc-easy-paginate
 
 A react-easy-paginate Package
 
 ## Installation
 
-Install `react-easy-paginate` with [npm](https://www.npmjs.com/):
+Install `rc-easy-paginate` with [npm](https://www.npmjs.com/):
 
 ```
-$ npm install react-easy-paginate --save
+$ npm install rc-easy-paginate --save
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ $ npm install react-easy-paginate --save
 #### javascript
 
 ```javascript
-import paginate from "react-easy-paginate";
+import paginate from "rc-easy-paginate";
 
 const movies = paginate(
   this.state.movies,
@@ -29,7 +29,7 @@ const movies = paginate(
 ## Demo
 
 Read the code of [demo/demo.jsx][1]. You will quickly understand
-how to make `react-easy-paginate` work with a list of objects.
+how to make `rc-easy-paginate` work with a list of objects.
 
 ## License
 
